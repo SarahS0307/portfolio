@@ -1,2 +1,2 @@
 <br>
-<p style="color: red; font-size: 80px;">home test 2</p>
+<p class="bg-sky-300">home test 2</p>
