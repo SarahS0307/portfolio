@@ -1,3 +1,3 @@
-<?php the_content(); ?>
-<br>
-<p style="color: red; font-size: 80px;">frontpage</p>
+<main class="border border-sky-300">
+    <?php the_content(); ?>
+</main>

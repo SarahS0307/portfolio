@@ -1,3 +1,3 @@
-<?php get_template_part( 'template-parts/navigation/navigation', 'header' ); ?>
-<br>
-<p class="bg-sky-800">header</p>
+<header class="border border-400-green">
+    <?php get_template_part( 'template-parts/navigation/navigation', 'header' ); ?>
+</header>

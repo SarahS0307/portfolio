@@ -12,7 +12,5 @@
 
 <?php get_template_part( 'template-parts/footer/content', 'footer' ); ?>
 
-<!-- CODE FÜR GULPFILE -->
-
 </body>
 </html>

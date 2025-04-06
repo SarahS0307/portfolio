@@ -24,5 +24,5 @@
         </title>
         <?php wp_head(); ?>
     </head>
-<body>
+<body class="p-2">
 <?php get_template_part( 'template-parts/header/content', 'header' ); ?>
