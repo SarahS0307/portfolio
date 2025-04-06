@@ -1,0 +1,23 @@
+{
+  "name": "basis-theme",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "��#\u0000 \u0000b\u0000a\u0000s\u0000i\u0000s\u0000-\u0000t\u0000h\u0000e\u0000m\u0000e\u0000\r\u0000 \u0000",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^3.0.3",
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^3.0.0",
+    "gulp-sass": "^6.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "sass": "^1.85.1"
+  }
+}

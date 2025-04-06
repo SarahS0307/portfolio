@@ -4,9 +4,9 @@
  * Für jede Funktion ein eigenes file in dem Ordner functions anlegen
 */
 
-if ( !function_exists( 'portfolio_setup' ) ) :
+if ( !function_exists( 'basisTheme_setup' ) ) :
     
-    function portfolio_setup() {
+    function basisTheme_setup() {
         require_once 'functions/func-admin.php';
         require_once 'functions/func-debug.php';
         require_once 'functions/func-menu.php';
@@ -27,4 +27,4 @@ if ( !function_exists( 'portfolio_setup' ) ) :
     }
 endif;
 
-add_action( 'after_setup_theme', 'portfolio_setup' );
+add_action( 'after_setup_theme', 'basisTheme_setup' );
